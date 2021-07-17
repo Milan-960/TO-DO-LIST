@@ -1,0 +1,8 @@
+.goal-item {
+  margin: 1.5rem 0;
+  background: #ca68caf5;
+  box-shadow: 0 3px 9px rgba(red, green, blue, alpha);
+  color: rgb(0, 0, 0);
+  padding: 1rem 2rem;
+  cursor: pointer;
+}
