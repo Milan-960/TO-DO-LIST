@@ -32,7 +32,7 @@ function Input(props) {
           placeholder="Write your Goals To Stay FOCUSED!!"
         />
       </div>
-      <Button type="submit">Add Goal</Button>
+      <Button type="submit">Add Your Goal</Button>
     </form>
   );
 }
